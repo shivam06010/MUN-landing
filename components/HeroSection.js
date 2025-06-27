@@ -4,7 +4,7 @@ import { IoLocationSharp } from "react-icons/io5";
 
 function HeroSection() {
   return (
-    <div className="bg-[url(/images/bg.png)] bg-cover bg-top pt-18 mt-18 pb-10">
+    <div className="bg-[url(/images/bg.png)] bg-cover bg-top pt-18 mt-18 pb-12">
       <header className="h-[500px] mx-auto max-w-[1200px] text-center  text-white ">
         <h1 className="font-bold  text-[72px] bg-gradient-to-br from-[#ad3c3c]  via-[#99CEEB] to-[#3CA9E4] bg-clip-text text-transparent">
           IIT (BHU) Varanasi

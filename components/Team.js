@@ -3,7 +3,7 @@ import HeadAndSubhead from "./head&subhead";
 
 function Team() {
   return (
-    <div className="pb-20" id="team">
+    <div className="pb-20 scroll-mt-[50px]" id="team">
       <HeadAndSubhead
         head="Meet Our Team"
         subHead="Our dedicated organizing committee brings together passionate students committed to delivering an exceptional Model UN experience."

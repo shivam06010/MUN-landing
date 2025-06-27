@@ -6,7 +6,7 @@ import { FaBalanceScale } from "react-icons/fa";
 
 function Committees() {
   return (
-    <div className="bg-white pb-20" id="committees">
+    <div className="bg-white pb-20 scroll-mt-[50px]" id="committees">
       <HeadAndSubhead
         head="Our Committees"
         subHead="Choose from our carefully curated committees, each tackling pressing

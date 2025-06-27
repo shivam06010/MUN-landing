@@ -6,7 +6,7 @@ import { FiGlobe } from "react-icons/fi";
 
 function About() {
   return (
-    <div className="pb-25 pt-[50px]" id="about">
+    <div className="pb-25 scroll-mt-[50px]" id="about">
       <HeadAndSubhead
         head="About Model UN"
         subHead=" Model United Nations is an educational simulation where students

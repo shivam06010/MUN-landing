@@ -32,8 +32,13 @@ function Header() {
             <li className="hover:text-[#306feb]">
               <Link href="/#contact">Contact</Link>
             </li>
-            <li className="px-4 py-2 text-white rounded-full bg-linear-to-br from-[#0425ba] to-[#0531f5] transition-all hover:scale-105">
-              <Link href="/registeration">Register Now</Link>
+            <li className=" text-white">
+              <Link
+                href="/registeration"
+                className="px-4 py-2 rounded-full bg-linear-to-br from-[#0425ba] to-[#0531f5] transition-all hover:scale-105"
+              >
+                Register Now
+              </Link>
             </li>
           </ul>
         </nav>

@@ -2,7 +2,7 @@ import { FaRegCheckCircle } from "react-icons/fa";
 
 function Registeration() {
   return (
-    <div className="grid grid-cols-2 max-w-[1200px] gap-8 mx-auto pt-30">
+    <div className="grid grid-cols-2 max-w-[1200px] gap-8 mx-auto pt-30 pb-10">
       <div className="px-6">
         <h2 className="text-[36px] font-semibold mb-6">
           Register for <span className="text-[#306feb]">MUN 2025</span>

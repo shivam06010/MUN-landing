@@ -2,7 +2,7 @@ import Registeration from "@/components/Registeration";
 
 function RegisterPage() {
   return (
-    <div className="bg-[#e8eefe] h-[100vh]">
+    <div className="bg-[#e8eefe]">
       <Registeration />
     </div>
   );

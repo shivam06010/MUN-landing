@@ -37,14 +37,17 @@ function Contact() {
         </ContactBox>
       </section>
       <div className="text-center mb-4">
-        <div className="bg-[#21C55D] inline-block text-white px-6 py-4 rounded-full">
-          <Link href="" className="flex items-center gap-2">
+        <Link
+          href=""
+          className="bg-[#21C55D] inline-block text-white px-6 py-4 rounded-full"
+        >
+          <div className="flex items-center gap-2">
             <FaWhatsapp size={24} />
             <span className="font-medium text-[18px]">
               Join Our WhatsApp Group
             </span>
-          </Link>
-        </div>
+          </div>
+        </Link>
       </div>
 
       <footer className="text-center">
